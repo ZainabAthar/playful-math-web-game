@@ -1,3 +1,3 @@
 ## Project info
 
-**URL**: https://playful-math-web-game-notz.vercel.app/
+**URL**: https://hci-oel-seven.vercel.app/
